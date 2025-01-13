@@ -1,0 +1,40 @@
+---
+title: "Python Intro (Winter 2025 / RSM338)"
+---
+
+Python is a high-level programming language known for its readability and versatility. It has a rich ecosystem of data science libraries, making it an excellent choice for data analysis tasks, from basic descriptive statistics to complex predictive modeling. This workshop introduces you the basics of Python programming and data analysis.
+
+------------------------------------------------------------------------
+
+### What To Prepare
+
+In this workshop, we use [Google Colab](https://colab.research.google.com/) as our coding environment, so all you need is a Google Account. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.
+
+------------------------------------------------------------------------
+
+### Slides and Notebooks
+
+-   [Slides](python_intro.pdf)
+-   Notebooks
+    -   Python programming basics ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-fall/blob/master/docs/python_programming_basics.ipynb))
+    -   Data analysis basics ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-fall/blob/master/docs/python_data_analysis_basics.ipynb))
+
+------------------------------------------------------------------------
+
+### Resources
+
+-   Learning
+    -   [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) by Software Carpentry
+    -   [Python Intro](https://developers.google.com/edu/python/introduction) by Google
+    -   [Python for Beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/) by Microsoft
+    -   [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+    -   [Numpy Quick Start](https://numpy.org/doc/stable/user/quickstart.html)
+    -   [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+    -   [Python Style Guide](https://peps.python.org/pep-0008/)
+-   Free Cloud Computing (other than Google Colab)
+    -   [UofT JupyterHub](https://datatools.utoronto.ca/) (choose Jupyter or JupterLab for Python)
+    -   [Anaconda Cloud](https://anaconda.cloud/) (choose the free tier)
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
