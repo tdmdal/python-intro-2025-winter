@@ -16,8 +16,8 @@ In this workshop, we use [Google Colab](https://colab.research.google.com/) as o
 
 -   [Slides](python_intro.pdf)
 -   Notebooks
-    -   Python programming basics ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-fall/blob/master/docs/python_programming_basics.ipynb))
-    -   Data analysis basics ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-fall/blob/master/docs/python_data_analysis_basics.ipynb))
+    -   Python programming basics ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-winter/blob/master/docs/python_programming_basics.ipynb))
+    -   Data analysis basics ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-winter/blob/master/docs/python_data_analysis_basics.ipynb))
 
 ------------------------------------------------------------------------
 
