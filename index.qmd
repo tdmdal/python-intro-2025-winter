@@ -26,8 +26,8 @@ In this workshop, we use [Google Colab](https://colab.research.google.com/) as o
 -   Learning
     -   [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) by Software Carpentry
     -   [Python Intro](https://developers.google.com/edu/python/introduction) by Google
-    -   [Python for Beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/) by Microsoft
-    -   [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+    -   [Python for Beginners](https://learn.microsoft.com/en-us/shows/intro-to-python-development/) by Microsoft
+    -   [Python for Data Analysis, 3E](https://wesmckinney.com/book/) by Wes McKinney (creator of pandas library)
     -   [Numpy Quick Start](https://numpy.org/doc/stable/user/quickstart.html)
     -   [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
     -   [Python Style Guide](https://peps.python.org/pep-0008/)
